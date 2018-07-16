@@ -38,5 +38,4 @@ dependencies {
     implementation 'com.orhanobut:logger:2.2.0'  //Logger.addLogAdapter(new AndroidLogAdapter());
 
 
-
 }

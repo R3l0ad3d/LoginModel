@@ -44,6 +44,6 @@
         android:layout_height="wrap_content"
         android:text="Log in"
         android:stateListAnimator="@animator/button_animator"
-        style="@style/myButton"/>
+        android:onClick="nextClick"/>
 
 </LinearLayout>
