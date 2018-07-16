@@ -22,5 +22,8 @@ public class ProfileActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         appBarLayout = findViewById(R.id.appBarLayout);
+
+        /*final List<TextInputLayout> textInputLayouts = Utils.findViewsWithType(
+                rootView, TextInputLayout.class);*/ //use in fragment
     }
 }
